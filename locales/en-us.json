@@ -1,0 +1,48 @@
+{
+	"language": "English",
+	"rate_limit_exceeded":"You have been exceeded the number of messages per hour, please try again later",
+	"wlc_1_hi":"Hi",
+	"wlc_2_msg":"Welcome to Nomination Vote",
+	"wlc_3_act":"Please Select a Language:",
+
+	"rd_error_input": "Invalid input",
+	"restart": "Please press /start to restart",
+
+	"tc_1": "<b>Terms of Use</b>\n\nYou understand and agree:\n1. ---\n2. ---",
+	"tc_1_keyboard_1": "Accept 1/2",
+	"tc_1_keyboard_2": "Reject",
+
+	"tc_skipped": "We are sorry, we need you to accept our terms before continuing...\nPlease press /start to restart",
+
+	"tc_2": "<b>Registration Identity</b>\n\nWarning: ... , \n\"Any person... .\"\n\nPlease respect... .\n\nBy clicking accept, I...",
+	"tc_2_keyboard_1": "Accept 2/2",
+	"tc_2_keyboard_2": "Reject",
+
+	"get_phone_number_btn": "We will need your phone number and your Voter ID to validate your identity\nPlease press the button to allow us ask Telegram for your phone number:",
+	"get_voter_id": "Please enter digits in your Voter ID number, EXCLUDING punctuation marks.\nE.g. \"1.2-3,4\", please enter \"1234\", and press \"Enter\".",
+	"send_contact": "Send my phone number",
+
+	"nominate_title": "Nominate a Hero candidate",
+	"candidate_endorse_count_1": "Number of nominations: ",
+	"nominate_desc_has_nominated": "You have nominated: ",
+	"nominate_desc": "Which one would you nominate to be the candidate for the Hero CEO",
+	"invalid_candidate": "Invalid candidate. Please enter again",
+	"confirm_modal_nominate_correct": "Please confirm you would nominate this Hero to be the candidate: ",
+	"cd_right": "Right",
+	"cd_wrong_candidate": "Wrong Candidate",
+	"nomination_ok": "Your nomination has been processed successfully",
+
+	"complete_ad2_text": "Join the discussion about the results and the analysis at:",
+	"complete_ad3_text": "Visit Hero Election Facebook page at:",
+
+	"error_message_code_3000": "You account is blocked. Please try again later",
+	"error_message_code_3001": "You reach our limit request",
+	"error_message_code_4000": "System error",
+	"error_message_code_4001": "Invalid Voter ID, please input again",
+	"error_message_code_4002": "Please click the \"four dot sign\" near the right of the textbox, and press the button \"Send my phone number\" appeared in the bottom of the screen to approve Telegram to send us your phone number.",
+	"error_message_code_4004": "Your Voter ID has already been registered by other",
+	"error_message_code_4005": "Your Telephone number has already been registered by other",
+	"error_message_code_4006": "You have submitted your selections and cannot submit again",
+	"error_message_code_4007": "Invalid input",
+	"error_message_code_5000": "Network or system does not respond. You may try to reload the web page now, or try again later"
+}

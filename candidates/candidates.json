@@ -1,0 +1,45 @@
+{
+  "Q1": {
+    "en-us": {
+      "question": "Which one of the following would you nominate to be candidate for the World Hero CEO",
+      "choice": [
+        {
+          "key": 0,
+          "value": "El Chapulín Colorado",
+          "description": "El Chapulín Colorado is a Mexican television comedy series that ran from 1972 to 1981 and parodied superhero shows. It was created by Roberto Gómez Bolaños, who also played the main character.",
+          "image": "El_Chapulín_Colorado.jpg"
+        },
+        {
+          "key": 1,
+          "value": "Pie Man",
+          "description": "",
+          "image": "Pie_Man.jpg"
+        },
+        {
+          "key": 2,
+          "value": "Mazinger Z",
+          "description": "",
+          "image": "Mazinger_Z.jpg"
+        },
+        {
+          "key": 3,
+          "value": "Aphrodita A",
+          "description": "",
+          "image": "Aphrodite_A.jpg"
+        },
+        {
+          "key": 4,
+          "value": "She-ra",
+          "description": "",
+          "image": "She-ra.png"
+        },
+        {
+          "key": 5,
+          "value": "He-man",
+          "description": "",
+          "image": "He-man.jpg"
+        }
+      ]
+    }
+  }
+}

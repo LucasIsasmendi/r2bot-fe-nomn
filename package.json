@@ -1,0 +1,51 @@
+{
+  "name": "r2bot-fe-nomn",
+  "version": "1.0.0",
+  "description": "r2bot family:bot for nomination purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node index.js",
+    "serve": "nodemon index.js"
+  },
+  "keywords": [
+    "bot",
+    "vote"
+  ],
+  "author": "Lucas Isasmendi",
+  "contributors": [{"name": "Sunny Chow"}],
+  "license": "MIT",
+  "engines": {
+    "node": "6.5.0"
+  },
+  "dependencies": {
+    "@newrelic/native-metrics": "^2.1.0",
+    "bluebird": "^3.4.7",
+    "crypto-js": "^3.1.9-1",
+    "ioredis": "^2.5.0",
+    "lodash": "^4.17.4",
+    "newrelic": "^1.37.2",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7",
+    "r2bot-sdk": "git://github.com/LucasIsasmendi/r2bot-sdk.git#nomination",
+    "redis": "^2.6.5",
+    "request": "^2.79.0",
+    "telegraf": "^3.6.5",
+    "telegraf-flow": "^8.1.2",
+    "telegraf-i18n": "^4.2.4",
+    "telegraf-session-redis": "^4.2.0",
+    "util": "^0.10.3"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "context",
+      "before",
+      "beforeEach",
+      "after",
+      "afterEach",
+      "it",
+      "expect"
+    ]
+  }
+}
